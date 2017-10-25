@@ -1,0 +1,12 @@
+.flat-imagebox-content .flat-imagebox-desc{
+	display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 4;
+overflow: hidden;
+}
+.flat-imagebox-image{
+	width: 265px;
+}
+.color-txt a{
+	color: #18B65E;
+}

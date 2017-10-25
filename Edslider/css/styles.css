@@ -1,0 +1,46 @@
+
+ul{
+	margin:0;
+}
+
+.container{
+	max-width: 1200px;
+	overflow:hidden;
+}
+.container{
+	margin:auto;
+}
+.mySlideshow .animated{
+	position:absolute;
+}
+.first{
+	background:url("../images/banner1.jpg") center no-repeat;
+}
+.first a,
+.first img{
+	display:block;
+}
+.first a{
+	top:80px;
+}
+.first div{
+	font-family:'Open Sans Condensed', sans-serif;
+	font-size:50px;
+	bottom:80px;
+	width:320px;
+	text-align:center;
+}
+.second{
+	background:url("../images/banner2.jpg") center no-repeat;
+}
+.second img{
+	top: 160px;
+	
+}
+.third{
+	background:url("../images/banner3.jpg") center no-repeat;
+}
+.third img{
+	top:100px;
+}
+
